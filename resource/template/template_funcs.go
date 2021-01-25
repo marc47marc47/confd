@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	util "github.com/kelseyhightower/confd/util"
-	"github.com/kelseyhightower/memkv"
+	util "github.com/marc47marc47/confd/util"
+	"github.com/marc47marc47/memkv"
 )
 
 func newFuncMap() map[string]interface{} {

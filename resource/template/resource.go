@@ -15,10 +15,10 @@ import (
 	"text/template"
 
 	"github.com/BurntSushi/toml"
-	"github.com/kelseyhightower/confd/backends"
-	"github.com/kelseyhightower/confd/log"
-	util "github.com/kelseyhightower/confd/util"
-	"github.com/kelseyhightower/memkv"
+	"github.com/marc47marc47/confd/backends"
+	"github.com/marc47marc47/confd/log"
+	util "github.com/marc47marc47/confd/util"
+	"github.com/marc47marc47/memkv"
 	"github.com/xordataexchange/crypt/encoding/secconf"
 )
 

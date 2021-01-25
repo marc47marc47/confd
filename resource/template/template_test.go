@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kelseyhightower/confd/backends"
+	"github.com/marc47marc47/confd/backends"
 	"github.com/xordataexchange/crypt/encoding/secconf"
 )
 
